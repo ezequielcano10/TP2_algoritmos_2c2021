@@ -1,9 +1,5 @@
-//
-// Created by ezequiel on 22/11/21.
-//
-
-#ifndef TP2_ALGORITMOS_2C2021_LISTA_H
-#define TP2_ALGORITMOS_2C2021_LISTA_H
+#ifndef LISTA_H
+#define LISTA_H
 #include "Nodo.h"
 
 template<class T>
@@ -266,4 +262,4 @@ Nodo<T>* Lista<T>::obtenerNodo(unsigned int posicion)
     return actual;
 }
 
-#endif //TP2_ALGORITMOS_2C2021_LISTA_H
+#endif //LISTA_H

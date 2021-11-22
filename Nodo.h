@@ -1,9 +1,5 @@
-//
-// Created by ezequiel on 22/11/21.
-//
-
-#ifndef TP2_ALGORITMOS_2C2021_NODO_H
-#define TP2_ALGORITMOS_2C2021_NODO_H
+#ifndef NODO_H
+#define NODO_H
 #ifndef NULL
 #define NULL 0
 #endif
@@ -48,4 +44,4 @@ public:
     }
 };
 
-#endif //TP2_ALGORITMOS_2C2021_NODO_H
+#endif //NODO_H
