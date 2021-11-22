@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/TP2_algoritmos_2c2021.dir/Carta.cpp.o CMakeFiles/TP2_algoritmos_2c2021.dir/casillero.cpp.o CMakeFiles/TP2_algoritmos_2c2021.dir/ficha.cpp.o CMakeFiles/TP2_algoritmos_2c2021.dir/main.cpp.o CMakeFiles/TP2_algoritmos_2c2021.dir/Mazo.cpp.o CMakeFiles/TP2_algoritmos_2c2021.dir/tablero.cpp.o  -o TP2_algoritmos_2c2021 
