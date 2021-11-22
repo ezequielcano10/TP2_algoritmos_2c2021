@@ -1,0 +1,3 @@
+/home/ezequiel/Escritorio/ALgo 2 Calvo/TP2/TP2_algoritmos_2c2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ezequiel/Escritorio/ALgo 2 Calvo/TP2/TP2_algoritmos_2c2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ezequiel/Escritorio/ALgo 2 Calvo/TP2/TP2_algoritmos_2c2021/cmake-build-debug/CMakeFiles/TP2_algoritmos_2c2021.dir

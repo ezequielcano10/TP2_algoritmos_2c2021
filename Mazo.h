@@ -1,5 +1,7 @@
 #ifndef MAZO_H_
 #define MAZO_H_
+#include "Carta.h"
+
 class Mazo {
 private:
 	Carta * p;
